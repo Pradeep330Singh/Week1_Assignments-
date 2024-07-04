@@ -1,0 +1,1 @@
+print("Day\"s and \\night")
