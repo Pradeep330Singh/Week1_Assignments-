@@ -1,0 +1,1 @@
+print("A \nAAA \nAAAAA \nAAA \nA")
